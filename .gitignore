@@ -1,0 +1,10 @@
+# C++ Executables & Compiled Artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.app
+
+# VS Code Local Settings (Root & Subfolders)
+.vscode/
+**/.vscode/

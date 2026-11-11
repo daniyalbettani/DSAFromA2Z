@@ -1,9 +1,0 @@
-# C++ Executables & Object Files
-*.exe
-*.out
-*.o
-*.obj
-*.app
-
-# VS Code Local Workspace Settings
-.vscode/
